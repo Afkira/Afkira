@@ -1,4 +1,4 @@
-## Hi there 👋 I’m Afkira
+## Hi there 👋 I’m DJOleg
 
 <!--
 **Afkira/Afkira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
